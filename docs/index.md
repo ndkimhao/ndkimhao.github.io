@@ -6,7 +6,7 @@ I am a sophomore majoring in Computer Science and Mathematics at the University 
 I love everything about the computer and programming.
 My research focus now is software testing and verification techniques.
 
-<div style="clear:both" />
+<div style="clear:both"></div>
 
 ### Resume
 
