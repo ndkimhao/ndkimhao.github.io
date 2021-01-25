@@ -1,11 +1,15 @@
 # About
 
+![Profile Photo](images/profile-photo.jpg){: align=left width=100px style='border-radius:40px;' }
+
 I am a sophomore majoring in Computer Science and Mathematics at the University of Nebraska-Lincoln. 
 I love everything about the computer and programming.
 My research focus now is software testing and verification techniques.
 
-!!! tldr "Contact"
-    KimHao Nguyen
+<div style="clear:both" />
+
+!!! tldr ""
+    **KimHao Nguyen**
 
     Department of Computer Science and Engineering <br>
     University of Nebraska-Lincoln <br>
@@ -13,6 +17,10 @@ My research focus now is software testing and verification techniques.
 
     Email: kdnguyen@cse.unl.edu
 
+### Resume
+
+- [Full Resume (2 pages)](resume/2021_full.pdf){target=_blank}
+- [Short Resume (1 page)](resume/2021_short.pdf){target=_blank}
 
 ### News
 - 12/2020: **ICSE'21** research paper on program interactions learning using decision trees (with Professor ThanhVu).
