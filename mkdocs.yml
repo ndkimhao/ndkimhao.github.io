@@ -1,6 +1,7 @@
 site_name: KimHao Nguyen
 theme:
   name: material
+  custom_dir: overrides
   icon:
     logo: fontawesome/brands/neos
   favicon: images/favicon.png
