@@ -8,15 +8,6 @@ My research focus now is software testing and verification techniques.
 
 <div style="clear:both" />
 
-!!! tldr ""
-    **KimHao Nguyen**
-
-    Department of Computer Science and Engineering <br>
-    University of Nebraska-Lincoln <br>
-    Lincoln, NE 68588
-
-    Email: kdnguyen@cse.unl.edu
-
 ### Resume
 
 - [Full Resume (2 pages)](resume/2021_full.pdf){target=_blank}

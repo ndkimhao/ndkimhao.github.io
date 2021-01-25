@@ -16,7 +16,11 @@ markdown_extensions:
   - pymdownx.superfences
   - abbr
   - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 nav:
   - index.md
   - publications.md
   - awards.md
+  - contact.md
