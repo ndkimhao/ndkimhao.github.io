@@ -1,3 +1,14 @@
-site_name: My Docs
+site_name: KimHao Nguyen
 theme:
   name: material
+  icon:
+    logo: fontawesome/brands/neos
+  favicon: images/favicon.png
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - abbr
+  - attr_list
+nav:
+  - index.md
