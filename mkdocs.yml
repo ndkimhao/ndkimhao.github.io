@@ -1,4 +1,7 @@
 site_name: KimHao Nguyen
+site_url: http://ndkimhao.github.io
+site_description: KimHao Nguyen's Personal Homepage
+site_author: KimHao Nguyen
 theme:
   name: material
   custom_dir: overrides
