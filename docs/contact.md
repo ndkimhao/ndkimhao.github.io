@@ -1,7 +1,7 @@
 # Contact
 
 
-### KimHao Nguyen
+### KimHao Nguyen (Kim Hao Nguyen)
 
 Department of Computer Science and Engineering <br>
 University of Nebraska-Lincoln <br>
