@@ -10,8 +10,8 @@ My research focus now is software testing and verification techniques.
 
 ### Resume
 
-- [Full Resume (2 pages)](resume/2021_full.pdf){target=_blank}
-- [Short Resume (1 page)](resume/2021_short.pdf){target=_blank}
+- [Full Resume (2 pages)](resume/2021_full_cv.pdf){target=_blank}
+- [Short Resume (1 page)](resume/2021_short_cv.pdf){target=_blank}
 
 ### News
 - 12/2020: **ICSE'21** research paper on program interactions learning using decision trees (with Professor ThanhVu).
