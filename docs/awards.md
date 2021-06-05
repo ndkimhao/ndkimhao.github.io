@@ -2,7 +2,11 @@
 
 ## US
 
-- **First Prize** at site, **Second Prize** in region at the **ICPC** North Central NA Regional Contest (with Quan and Cuong).
+- **Outstanding Undergraduate Research Assistant Award** (2021), one recipient a year, selected by the faculty.
+- **Top Presenter Award** at the **Nebraska Student Research Days** (2021), six recipients out of 154 participants.
+- **UCare Scholarship** (2020) for undergraduate researchers, $2,400/year.
+- **Garmin Scholarship** (2020), three concurrent recipients, $8,000/year.
+- **First Prize** at site, **Second Prize** in region (2019) at the **ICPC** North Central NA Regional Contest (with Quan and Cuong).
 
 *[ICPC]: International Collegiate Programming Contest
 *[NA]: North America
