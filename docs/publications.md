@@ -13,8 +13,4 @@
 *[ICSE]: International Conference on Software Engineering
 *[ICSME]: International Conference on Software Maintenance and Evolution
 *[NIER]: New Ideas and Emerging Results
-
-### Outstanding Submission
-- ThanhVu Nguyen, KimHao Nguyen, and Matthew B. Dwyer. *Using Symbolic States to Infer Numerical Invariants*. Transactions on Software Engineering (TSE), 2020.
-
 *[TSE]: Transactions on Software Engineering
