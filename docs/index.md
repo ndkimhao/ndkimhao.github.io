@@ -8,7 +8,7 @@ My research focus now is software testing and verification techniques.
 
 <div style="clear:both"></div>
 
-### [Resume](resume/2021_short_cv.pdf){target=_blank}
+# [Resume](resume/2021_short_cv.pdf){target=_blank}
 
 ### News
 - 8/2020: **ASE'21** tool paper on learning program interactions using decision trees (with Professor ThanhVu).
