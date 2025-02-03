@@ -1,5 +1,8 @@
 # Projects
 
+- **Weeekly3006 Soft Processor** (2023)
+    - Built a toy CISC processor from scratch (in VHDL), with a custom ISA, a macro assembler (using a DSL based on Python), and a simple runtime library.
+	- Inspired by Nand2Tetris, I also wrote a demo Tetris game for my homebuilt computer ([Demo](https://www.youtube.com/watch?v=TzXlX9troM4)).
 
 - **Gomoku AI Engine** (2018)
     - Gomoku AI engine (alpha-beta search, heuristic evaluation, threat-based search, transposition table).
