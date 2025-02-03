@@ -8,9 +8,10 @@ My research focus now is software testing and verification techniques.
 
 <div style="clear:both"></div>
 
-# **[Resume](resume/2022_short_cv.pdf){target=_blank}**
+# **[Resume](resume/2025_short_cv.pdf){target=_blank}**
 
 ### News
+- 6/2023: Started working at Jump Trading (Software Engineer).
 - 8/2020: **ASE'21** tool paper on learning program interactions using decision trees (with Professor ThanhVu).
 - 7/2021: **OOPSLA'21** paper on analyzing program complexity using dynamically inferred recurrence relations (with Didier and Professor ThanhVu)
 - 5/2021: **Outstanding Undergraduate Research Assistant Award**, one recipient per year, selected by the faculty.
