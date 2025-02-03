@@ -2,10 +2,6 @@
 
 ![Profile Photo](images/profile-photo.jpg){: align=left width=100px style='border-radius:40px;' }
 
-I am a sophomore majoring in Computer Science and Mathematics at the University of Nebraska-Lincoln. 
-I love everything about the computer and programming.
-My research focus now is software testing and verification techniques.
-
 <div style="clear:both"></div>
 
 # **[Resume](resume/2025_short_cv.pdf){target=_blank}**
